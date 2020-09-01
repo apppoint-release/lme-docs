@@ -1,0 +1,9 @@
+{
+   "Code": "A3Pt",
+   "Name": "A3Pt Solutions",
+   "Address": "Bannerghatta Road",
+   "City": "bangalore",
+   "GeoState": "Karnataka",
+   "Country": "India",
+   "ParentCompanyCode":"biocon"
+}

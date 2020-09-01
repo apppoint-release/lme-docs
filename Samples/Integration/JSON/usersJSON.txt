@@ -1,0 +1,38 @@
+[
+  {
+    "LoginID": "JohnMiller@email.com",
+    "FirstName": "John",
+    "LastName": "Miller",
+    "EmailID": "JohnMiller@email.com",
+    "UserCompany": "biocon",
+    "Active": true,
+    "Department": "Engineering",
+    "Designation": "Software engineer",
+    "Manager": "",
+    "CostCenterName": "",
+    "CostCenterCode": "",
+    "EmployeeId": "App048",
+    "Grade": "Grade-I",
+    "fullname": "John Miller",
+    "address": "",
+    "DateOfJoining": "18-08-1980"
+  },
+  {
+    "LoginID": "mahesh@gmail.com",
+    "FirstName": "mahesh",
+    "LastName": "jk",
+    "EmailID": "mahesh@gmail.com",
+    "UserCompany": "apppoint",
+    "Active": true,
+    "Department": "Engineering",
+    "Designation": "Software engineer",
+    "Manager": "JohnMiller@email.com",
+    "CostCenterName": "",
+    "CostCenterCode": "",
+    "EmployeeId": "App049",
+    "Grade": "Grade-I",
+    "fullname": "mahesh JK",
+    "address": "",
+    "DateOfJoining": "18-08-1981"
+  }
+]
